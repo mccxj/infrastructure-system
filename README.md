@@ -14,8 +14,9 @@ Home Page: http://nil.csail.mit.edu/6.824/2017/
 * http://m.blog.csdn.net/huoyunshen88/article/details/8844907
 * https://zhuanlan.zhihu.com/p/20672861?utm_source=com.youdao.note&utm_medium=social
 
-## database
+## 数据库
 
+[火山优化器生成器](http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA450829)
 
 https://www.lri.fr/~kn/teaching/lcd/cc/articles/icde_1993_volcano.pdf
 http://ieeexplore.ieee.org/document/344061/?reload=true&arnumber=344061&punumber%3D907
