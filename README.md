@@ -2,6 +2,10 @@
 MIT Distributed Systems 6.824 Spring 2017.
 Home Page: http://nil.csail.mit.edu/6.824/2017/
 
+## 一致性哈希
+
+http://www.akamai.com/dl/technical_publications/ConsistenHashingandRandomTreesDistributedCachingprotocolsforrelievingHotSpotsontheworldwideweb.pdf
+
 ## 一致性协议
 
 * [raft中文版](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
